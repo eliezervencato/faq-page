@@ -12,3 +12,4 @@ It is built using only HTML and CSS.
 + Semantic HTML5 markup
 + CSS custom properties
 + Flexbox
+
