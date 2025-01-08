@@ -3,7 +3,7 @@
 ## Overview
 Este projeto é um desafio do site DevChallenges. O desafio tinha como objetivo criar uma página simples de FAQ (Frequently Asked Questions) utilizando apenas HTML e CSS.
 
-<a href="https://eliezervencato.github.io/faq-page/" target="_blank">(assets/screenshot.png)</a>
+<a href="https://eliezervencato.github.io/faq-page/" target="_blank">![screenshot](assets/screenshot.png)</a>
 
 ### O que foi utilizado nesse projeto
 
