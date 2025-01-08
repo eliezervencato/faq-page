@@ -1,18 +1,25 @@
-# Simple FAQ Page
+<h1 align="center">FAQ Página Simples</h1>
 
 ## Overview
-This project is a solution for a challenge Simple FAQ (Frequently Asked Questions) page from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
-It is built using only HTML and CSS.
+Este projeto é um desafio do site DevChallenges. O desafio tinha como objetivo criar uma página simples de FAQ (Frequently Asked Questions) utilizando apenas HTML e CSS.
 
-![screenshot](assets/screenshot.png)
+<a href="https://eliezervencato.github.io/faq-page/" target="_blank">(assets/screenshot.png)</a>
+
+### O que foi utilizado nesse projeto
+
+- HTML5
+- CSS
+- Flexbox
+- Google Fonts
 
 
-## DEMO
-<a href="https://eliezervencato.github.io/faq-page/" target="_blank">Demonstration</a>
+### Features
 
-### Built with
+- Layout responsivo com Flexbox
+- Design clean e minimalista
 
-+ Semantic HTML5 markup
-+ CSS custom properties
-+ Flexbox
 
+### Dev
+
+- [LinkedIn](https://www.linkedin.com/in/eliezer-vencato/)
+- [Github](https://github.com/eliezervencato)
